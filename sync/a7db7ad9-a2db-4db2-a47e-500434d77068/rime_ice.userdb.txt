@@ -1,0 +1,9 @@
+# Rime user dictionary
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.8.5
+#@/tick	3
+#@/user_id	a7db7ad9-a2db-4db2-a47e-500434d77068
+tong bu 	同步	c=1 d=1 t=3
+yong hu 	用户	c=1 d=1 t=1
+zheng ming 	证明	c=1 d=1 t=2

@@ -34,11 +34,10 @@ app_options:
 
 style:
   # 选择皮肤，亮色与暗色主题
-  color_scheme: solarized_dark
-  color_scheme_dark: solarized_dark
+  color_scheme: mac_dark
+  color_scheme_dark: mac_dark
 
   # 预设选项。如果皮肤没写，则使用这些属性；如果皮肤写了，使用皮肤的。
-  candidate_list_layout: linear  # stacked | linear  候选项排列方向
   text_orientation: horizontal  # horizontal | vertical
   inline_preedit: true
   corner_radius: 10

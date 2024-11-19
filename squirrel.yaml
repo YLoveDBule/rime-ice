@@ -395,7 +395,6 @@ preset_color_schemes:
   solarized_dark:
     name: 曬經・月／Solarized Dark
     author: 雪齋 <lyc20041@gmail.com>
-<<<<<<< HEAD
     color_space: display_p3 # Only available on macOS 10.12+
     back_color: 0xf0352A0A #Lab 15, -12, -12
     border_color: 0xf02A1F00 #Lab 10, -12, -12
@@ -759,7 +758,6 @@ preset_color_schemes:
     hilited_candidate_text_color: 0xC0E077   # 第一候选项文字颜色
     hilited_text_color: 0x6EC8F5             # 高亮拼音 (需要开启内嵌编码)
     text_color: 0x78E8F0                     # 拼音等提示文字颜色
-=======
     back_color: 0xF0352A0A                  #Lab 15 ,-12,-12
     border_color: 0x2A1F00                  #Lab 10 ,-12,-12
     preedit_back_color: 0xD7E8ED            #Lab 92 , 0 , 10
@@ -774,4 +772,3 @@ preset_color_schemes:
     hilited_candidate_label_color: 0xCC8947 #Lab 55 ,-10,-45
     hilited_comment_text_color: 0x289989    #Lab 60 ,-20, 65
     hilited_text_color: 0xBE706D            #Lab 50 , 15,-45
->>>>>>> a022f0943fedf71eae154e1f06cad64079a3f536
